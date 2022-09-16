@@ -1,4 +1,0 @@
-while wait() do
-   game:GetService("Players").LocalPlayer.ServerEvent1:FireServer("updateArmor",500)
-   print ("Test")
-end
